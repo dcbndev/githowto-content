@@ -1,28 +1,28 @@
 ---
 view: page
-title: "4. Checking the status of the repository"
+title: "4. Verificarea stării repozitoriului"
 ---
 
-<h3>Goals</h3>
+<h3>Obiective</h3>
 
-<ul><li>To learn how to check the repository’s status</li></ul>
+<ul><li>Învățarea modului de verificare a stării repozitoriului</li></ul>
 
-<h2><em>01</em> Check the status of the repository</h2>
+<h2><em>01</em> Verifică starea repozitoriului</h2>
 
-<p>Use the <code>git status</code> command, to check the current state of the repository.</p>
+<p>Utilizează comanda <code>git status</code>, pentru verificarea stării curente a repozitoriului.</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Rulează:</h4>
 
 <pre class="instructions">git status</pre>
 
-<p>You will see</p>
+<p>Vei vedea</p>
 
-<h4 class="h4-pre">Result:</h4>
+<h4 class="h4-pre">Rezultat:</h4>
 
 <pre class="sample">$ git status
 # On branch master
 nothing to commit (working directory clean)</pre>
 
-<p>The command checks the status and reports that there’s nothing to commit, meaning the repository stores the current state of the working directory, and there are no changes to record.</p>
+<p>Comanda verifică starea și raportează că nu are la ce face commit, ceea ce înseamnă că repozitoriul stochează starea curentă a directorului de lucru și că în acesta nu sunt schimbări ce pot fi înregistrate.</p>
 
-<p>We will use the <code>git status</code> command to keep monitoring the states of both the working directory and the repository.</p>
+<p>Noi voi utiliza comanda <code>git status</code> pentru a monitoriza stările directorului de lucru și a repozitoriului.</p>
