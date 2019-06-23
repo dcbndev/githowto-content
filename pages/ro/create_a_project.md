@@ -1,17 +1,17 @@
 ---
 view: page
-title: "3. Creating a Project"
+title: "3. Crearea proiectului"
 ---
 
-<h3>Goals</h3>
+<h3>Obiective</h3>
 
-<ul><li>To learn how to create a git repository from scratch.</li></ul>
+<ul><li>Învață să creezi repozitorii git de la zero.</li></ul>
 
-<h2><em>01</em> Create a “Hello, World!” page</h2>
+<h2><em>01</em> Crează o pagină “Hello, World!”</h2>
 
-<p>Get started in an empty working directory (for example, work, if you downloaded the file from the previous step) and create an empty directory named “hello”, then create a <code>hello.html</code> file in it with the following contents.</p>
+<p>Începe să lucrezi într-un director de lucru gol (de exemplu, work, dacă ai descărcat arhiva din pasul precedent) și creează un director nou cu numele “hello”, accesează acest director, după care creează un file <code>hello.html</code> cu următorul conținut.</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Rulează:</h4>
 
 <pre class="instructions">mkdir hello
 cd hello
@@ -21,32 +21,32 @@ touch hello.html</pre>
 
 <pre class="file">Hello, World!</pre>
 
-<h2><em>02</em> Create a repository</h2>
+<h2><em>02</em> Creaeză un repozitoriu</h2>
 
-<p>So you have a directory that contains one file. Run <code>git init</code> in order to create a git repo from that directory.</p>
+<p>Acum ai un director care conține un file. Rulează comanda <code>git init</code> pentru a crea un repozitoriu git din acest director.</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Rulează:</h4>
 
 <pre class="instructions">git init</pre>
 
-<h4 class="h4-pre">Result:</h4>
+<h4 class="h4-pre">Rezultat:</h4>
 
 <pre class="sample">$ git init
 Initialized empty Git repository in /Users/alex/Documents/Presentations/githowto/auto/hello/.git/
 </pre>
 
-<h2><em>03</em> Add the page to the repository</h2>
+<h2><em>03</em> Adaugă pagina în repozitoriu</h2>
 
-<p>Now let&#8217;s add the “Hello, World” page to the repository.</p>
+<p>Haide să adăugăm pagina “Hello, World” în acest repozitoriu.</p>
 
-<h4 class="h4-pre">Run:</h4>
+<h4 class="h4-pre">Rulează:</h4>
 
 <pre class="instructions">git add hello.html
 git commit -m "First Commit"</pre>
 
-<p>You will see &#8230;</p>
+<p>Vei vedea;</p>
 
-<h4 class="h4-pre">Result:</h4>
+<h4 class="h4-pre">Rezultat:</h4>
 
 <pre class="sample">$ git add hello.html
 $ git commit -m "First Commit"

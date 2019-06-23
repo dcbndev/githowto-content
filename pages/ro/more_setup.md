@@ -20,6 +20,6 @@ title: "2. Pregătirile finale"
 <p>Pachetul materialelor pentru instruire trebuie să conțină fișierul principal “git_tutorial” cu două subfișiere:</p>
 
 <ul>
-<li>work —  un director de lucru gol. Repozitoriile dvs vor fi stocate aici.</li>
-<li>files — file-uri pregătite pentru continuarea conlucrării cu tutorialul la orice etapă. Dacă prepackaged files to let you continue working with the tutorial on any stage. Dacă te blochezi, copiază lecția necesară în directorul dvs de lucru.</li>
+<li>work —  un director de lucru gol. Repozitoriile tale vor fi stocate aici.</li>
+<li>files — file-uri pregătite pentru continuarea conlucrării cu tutorialul la orice etapă. Dacă te blochezi, copiază lecția necesară în directorul tău de lucru.</li>
 </ul>
