@@ -1,25 +1,25 @@
 ---
 view: page
-title: "2. The final preparation"
+title: "2. Pregătirile finale"
 ---
 
-<h3>Goals</h3>
+<h3>Obiective</h3>
 
-<ul><li>Install the materials from the tutorial and get them ready for work.</li></ul>
+<ul><li>Instalarea materialelor din tutorial și pregătirea acestora pentru lucru.</li></ul>
 
-<h2><em>01</em> Download the tutorial materials</h2>
+<h2><em>01</em> Descarcă materialele tutorialului</h2>
 
-<p>Download the tutorial materials here:</p>
+<p>Descarcă materialele tutorialului aici:</p>
 
 <ul>
 <li><a href="http://githowto.com/git_tutorial.zip">http://githowto.com/git_tutorial.zip</a></li>
 </ul>
 
-<h2><em>02</em> Extract the tutorial materials</h2>
+<h2><em>02</em> Dezarhivează materialele tutorialului</h2>
 
-<p>The tutorial package should contain the main folder “git_tutorial” with two subfolders:</p>
+<p>Pachetul materialelor pentru instruire trebuie să conțină fișierul principal “git_tutorial” cu două subfișiere:</p>
 
 <ul>
-<li>work — an empty working directory. Your repositories will be created here.</li>
-<li>files — prepackaged files to let you continue working with the tutorial on any stage. If you get stuck, simply copy the desired lesson into your working folder.</li>
+<li>work —  un director de lucru gol. Repozitoriile dvs vor fi stocate aici.</li>
+<li>files — file-uri pregătite pentru continuarea conlucrării cu tutorialul la orice etapă. Dacă prepackaged files to let you continue working with the tutorial on any stage. Dacă te blochezi, copiază lecția necesară în directorul dvs de lucru.</li>
 </ul>
